@@ -16,12 +16,13 @@ https://github.com/user-attachments/assets/9a687881-0dd0-4f8a-8d54-629bd492118f
   - Videoları birleştirme
   - Dışa aktarma (FFmpeg ile)
 
-<img width="1920" height="1080" alt="kıf" src="https://github.com/user-attachments/assets/985e7fa1-ba94-4720-bffe-f57e93fe2d01" />
-<img width="720" height="1280" alt="as" src="https://github.com/user-attachments/assets/e5a327a2-51ae-4277-808a-bea691b04480" />
-<img width="1920" height="1080" alt="aav" src="https://github.com/user-attachments/assets/d3b75b24-b732-4d29-8f65-6588cbd06928" />
 
 
 
+
+<img width="1920" height="1080" alt="s" src="https://github.com/user-attachments/assets/078ea51b-b18a-4027-a967-b128197572d0" />
+<img width="1920" height="1080" alt="kıf" src="https://github.com/user-attachments/assets/d1a509d2-179c-4456-ac2a-3340f118a5b2" />
+<img width="1920" height="1080" alt="aav" src="https://github.com/user-attachments/assets/118ebec4-046b-40d8-9214-78a916daf033" />
 
 ##  Kullanılan Teknolojiler
 
