@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/9a687881-0dd0-4f8a-8d54-629bd492118f
+
 # WPF-MedyaEditor
 
  C# ve WPF kullanılarak geliştirilen bir masaüstü medya düzenleyici uygulaması. Kullanıcılar hem **videoları** hem de **fotoğrafları** düzenleyebilir; arka plan kaldırma, kırpma, segmentasyon gibi işlemleri gerçekleştirebilir.
